@@ -1,0 +1,21 @@
+.content {
+    display: flex;
+    align-items: center;
+    flex-direction: column;
+}
+.image {
+    display: flex;
+    align-content: center;
+    justify-content: center;
+}
+.movesImg{
+    display: flex;
+    flex-direction: row;
+    align-content: center;
+}
+.movesName{
+    display: flex;
+    flex-direction: column;
+    align-content: center;
+    
+}
